@@ -8,7 +8,7 @@
   "dependencies": {
     "component/domify": "*",
     "component/emitter": "*",
-    "segmentio/overlay": "0.2.3",
+    "slifszyc/overlay": "9f0a0009295b0533850ca015becb60030c0f736f",
     "slifszyc/showable": "be12f297aee1c700c62617b05feb272b55444d27",
     "segmentio/on-escape": "*",
     "ianstormtaylor/classes": "0.1.0"
